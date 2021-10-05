@@ -1,0 +1,2 @@
+docker exec -it -w /home/jovyan/jup_mapview-master vos_nb jupyter nbextension install --sys-prefix --symlink --overwrite --py jup_mapview
+docker exec -it -w /home/jovyan/jup_mapview-master vos_nb jupyter nbextension enable --sys-prefix --py jup_mapview
