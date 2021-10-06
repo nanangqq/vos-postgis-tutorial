@@ -42,3 +42,7 @@ bash install_docker.sh
 
 3. db에서 데이터 불러오기
    `notebooks/02_importing_data.ipynb` 파일 확인
+
+## 2. 공간연산쿼리 예제
+
+`notebooks/03_postgis_st_functions.ipynb` 파일 확인
