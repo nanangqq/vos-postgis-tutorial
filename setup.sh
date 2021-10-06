@@ -9,6 +9,7 @@ cd nb
 bash run.sh
 bash theme.sh
 bash data.sh
+bash notebooks.sh
 sleep 15
 bash token.sh
 bash mapview.sh
